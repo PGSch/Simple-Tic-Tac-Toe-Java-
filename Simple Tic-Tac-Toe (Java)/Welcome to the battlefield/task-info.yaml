@@ -1,0 +1,15 @@
+type: edu
+custom_name: Welcome to the battlefield!
+files:
+  - name: src/tictactoe/Main.java
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/48/stages/255/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 24 Sep 2024 15:34:57 UTC"
+record: 1
